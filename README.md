@@ -19,7 +19,7 @@
   </p>
 </p>
 
-[![Site preview](/landingpage.PNG)](website)
+[![Site preview](https://raw.githubusercontent.com/scottvcaputo/Portfolio/gh-pages/landingpage.PNG)](website)
 
 
 ## Frameworks and Dependencies 
