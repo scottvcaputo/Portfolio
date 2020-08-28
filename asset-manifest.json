@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.da18eaa0.chunk.css",
+    "main.css": "/Portfolio/static/css/main.1072c439.chunk.css",
     "main.js": "/Portfolio/static/js/main.41277903.chunk.js",
     "main.js.map": "/Portfolio/static/js/main.41277903.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.d4446722.js",
@@ -9,10 +9,10 @@
     "static/js/2.787dc1ca.chunk.js": "/Portfolio/static/js/2.787dc1ca.chunk.js",
     "static/js/2.787dc1ca.chunk.js.map": "/Portfolio/static/js/2.787dc1ca.chunk.js.map",
     "index.html": "/Portfolio/index.html",
-    "precache-manifest.0bd2228aba0bbd0217769dcdbb5c49c1.js": "/Portfolio/precache-manifest.0bd2228aba0bbd0217769dcdbb5c49c1.js",
+    "precache-manifest.c96b63d2aab80c96dd894d81a085fd59.js": "/Portfolio/precache-manifest.c96b63d2aab80c96dd894d81a085fd59.js",
     "service-worker.js": "/Portfolio/service-worker.js",
     "static/css/2.66165e39.chunk.css.map": "/Portfolio/static/css/2.66165e39.chunk.css.map",
-    "static/css/main.da18eaa0.chunk.css.map": "/Portfolio/static/css/main.da18eaa0.chunk.css.map",
+    "static/css/main.1072c439.chunk.css.map": "/Portfolio/static/css/main.1072c439.chunk.css.map",
     "static/js/2.787dc1ca.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.787dc1ca.chunk.js.LICENSE.txt",
     "static/media/algomodal.png": "/Portfolio/static/media/algomodal.bfbe04b1.png",
     "static/media/mountaincarmodal.jpg": "/Portfolio/static/media/mountaincarmodal.d680b01d.jpg",
@@ -25,7 +25,7 @@
     "static/js/runtime-main.d4446722.js",
     "static/css/2.66165e39.chunk.css",
     "static/js/2.787dc1ca.chunk.js",
-    "static/css/main.da18eaa0.chunk.css",
+    "static/css/main.1072c439.chunk.css",
     "static/js/main.41277903.chunk.js"
   ]
 }
