@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.da18eaa0.chunk.css",
+    "main.js": "/Portfolio/static/js/main.f5b7933b.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.f5b7933b.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.d4446722.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.d4446722.js.map",
+    "static/css/2.66165e39.chunk.css": "/Portfolio/static/css/2.66165e39.chunk.css",
+    "static/js/2.787dc1ca.chunk.js": "/Portfolio/static/js/2.787dc1ca.chunk.js",
+    "static/js/2.787dc1ca.chunk.js.map": "/Portfolio/static/js/2.787dc1ca.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "precache-manifest.40875016bc75eff8a2ec8fb0eb67b5b0.js": "/Portfolio/precache-manifest.40875016bc75eff8a2ec8fb0eb67b5b0.js",
+    "service-worker.js": "/Portfolio/service-worker.js",
+    "static/css/2.66165e39.chunk.css.map": "/Portfolio/static/css/2.66165e39.chunk.css.map",
+    "static/css/main.da18eaa0.chunk.css.map": "/Portfolio/static/css/main.da18eaa0.chunk.css.map",
+    "static/js/2.787dc1ca.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.787dc1ca.chunk.js.LICENSE.txt",
+    "static/media/algomodal.png": "/Portfolio/static/media/algomodal.bfbe04b1.png",
+    "static/media/mountaincarmodal.jpg": "/Portfolio/static/media/mountaincarmodal.d680b01d.jpg",
+    "static/media/profilepic.jpg": "/Portfolio/static/media/profilepic.80fd901f.jpg",
+    "static/media/resume.pdf": "/Portfolio/static/media/resume.de5fd01b.pdf",
+    "static/media/styletransfer.PNG": "/Portfolio/static/media/styletransfer.fe0a3d25.PNG",
+    "static/media/styletransfermodal.jpg": "/Portfolio/static/media/styletransfermodal.f1b732a8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4446722.js",
+    "static/css/2.66165e39.chunk.css",
+    "static/js/2.787dc1ca.chunk.js",
+    "static/css/main.da18eaa0.chunk.css",
+    "static/js/main.f5b7933b.chunk.js"
+  ]
+}
