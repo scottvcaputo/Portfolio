@@ -18,7 +18,7 @@
   </p>
 </p>
 
-[![Site preview](https://raw.githubusercontent.com/scottvcaputo/Portfolio/gh-pages/social-image.png)](https://scottvcaputo.github.io/Portfolio/)
+[![Site preview](https://raw.githubusercontent.com/scottvcaputo/Portfolio/gh-pages/landingpage.PNG)](https://scottvcaputo.github.io/Portfolio/)
 
 
 ## Frameworks and Dependencies 
